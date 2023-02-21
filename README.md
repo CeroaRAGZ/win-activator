@@ -1,8 +1,8 @@
-# Windows 10 Activators
+# Windows 10/11 Activators
 
-The minimal batch activator solution for Windows 10.
+The minimal batch activator solution for Windows 10/11.
 
-## There Is No Option for My Windows Edition :C
+## There Is No Option for My Windows Edition!
 To add any Windows versions just edit the file and replace the key with any of these keys:
 | Name                              | Generic Key                   |
 |-----------------------------------|-------------------------------|
