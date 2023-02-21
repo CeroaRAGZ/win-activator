@@ -21,6 +21,8 @@ To add any Windows versions just edit the file and replace the key with any of t
 | Windows 10 Enterprise S           | NK96Y-D9CD8-W44CQ-R8YTK-DYJWX |
 | Windows 10 S                      | 3NF4D-GF9GY-63VKH-QRC3V-7QW8P |
 
+note: generic win10 will work on win11
+
 ### Issues
 Sometimes the script's last step fails, especially on a fresh installs where windows update is wreaking havoc.
 The simple solution is to run the script again. In the worst case you'll have to reboot before you run it again.
